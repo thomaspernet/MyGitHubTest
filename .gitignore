@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+Icon?
+*.gz
+*.csv
+*.DS_Store
+*.png
+*.pdf
