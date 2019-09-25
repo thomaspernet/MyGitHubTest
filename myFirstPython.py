@@ -22,3 +22,6 @@ from scipy import stats
 slope, intercept, r_value, p_value, std_err = stats.linregress(x,y)
 print("The slope is {0:.2f} and the intercept is {1:.2f}".format(slope,
  intercept))
+
+
+print("hello")
