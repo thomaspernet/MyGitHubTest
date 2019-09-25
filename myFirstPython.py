@@ -24,4 +24,4 @@ print("The slope is {0:.2f} and the intercept is {1:.2f}".format(slope,
  intercept))
 
 
-print(" hello ")
+print(" test ")
